@@ -1,4 +1,5 @@
 🏃‍♂️ Fitness Tracker App
+
 A cross-platform Fitness Tracker App built with Flutter, integrated with Firebase for authentication and cloud storage. The app tracks steps, workouts, calories burned, and provides progress analytics with interactive graphs.
 
 🚀 Features
